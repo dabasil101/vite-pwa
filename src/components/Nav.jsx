@@ -23,7 +23,7 @@ const Nav = () => {
             Contact
           </a>
           <a
-            href="https://github.com/dabasil101"
+            href="https://github.com/dabasil101/vite-pwa"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-black transition-all hover:scale-110"
