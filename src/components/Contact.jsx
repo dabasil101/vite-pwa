@@ -101,7 +101,7 @@ function Contact() {
           {/* Social Icons */}
           <div className="flex items-center justify-center gap-6 mt-10 flex-wrap">
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://www.linkedin.com/in/alex-basil-737828322/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-blue-600 transition-all hover:scale-110 animate-pulse-hover"
