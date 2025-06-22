@@ -93,7 +93,7 @@ function Contact() {
             <div className="text-gray-700 space-y-2">
               <p className="flex items-center justify-center gap-2">
                 <Mail className="w-5 h-5" />
-                alexbasilxbox@example.com
+                alexbasilxbox@gmail.com
               </p>
             </div>
           </div>
@@ -119,7 +119,7 @@ function Contact() {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://instagram.com/yourprofile"
+              href="https://www.instagram.com/thegf.experience/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-pink-500 transition-all hover:scale-110 animate-pulse-hover"
@@ -128,7 +128,7 @@ function Contact() {
               <Instagram className="w-6 h-6" />
             </a>
             <a
-              href="https://tiktok.com/@yourprofile"
+              href="https://www.tiktok.com/@dabasil101?lang=en"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-black transition-all hover:scale-110 animate-pulse-hover"
@@ -137,7 +137,7 @@ function Contact() {
               <SiTiktok className="w-6 h-6" />
             </a>
             <a
-              href="https://youtube.com/@yourchannel"
+              href="hhttps://www.youtube.com/@AlexBasil-f1y"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-red-600 transition-all hover:scale-110 animate-pulse-hover"
