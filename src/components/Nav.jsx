@@ -30,14 +30,6 @@ const Nav = () => {
           >
             <Github className="w-5 h-5" />
           </a>
-          <a
-            href="https://linkedin.com/in/yourprofile"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gray-500 hover:text-blue-600 transition-all hover:scale-110"
-          >
-            <Linkedin className="w-5 h-5" />
-          </a>
         </div>
       </div>
     </nav>
